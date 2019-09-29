@@ -1,0 +1,32 @@
+.team{
+  background-color: #0101df;
+  border: 5px dotted yellow;
+  padding: 20px
+}
+
+@media (min-width: 500px){
+  body{
+    background-color: lightgrey;
+  }
+}
+
+  body{
+    color: yellow;
+    font-family: verdana;
+  }
+
+p{
+  background-color: #0101df;
+  border: 5px dotted yellow;
+  padding: 20px
+}
+
+a{
+  color: pink;
+}
+
+table{
+  background-color: #0101df;
+  border: 5px dotted yellow;
+  padding: 20px
+}
